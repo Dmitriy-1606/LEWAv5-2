@@ -771,7 +771,7 @@
     <string name="lockscreen_transport_pause_description">Кнопка паузы</string>
     <string name="lockscreen_transport_play_description">Кнопка воспроизведения</string>
     <string name="lockscreen_transport_stop_description">Кнопка выключения</string>
-    <string name="emergency_calls_only">Только экстренные вызовы</string>
+    <string name="emergency_calls_only">Оператор?</string>
     <string name="lockscreen_network_locked_message">Сеть заблокирована</string>
     <string name="lockscreen_sim_puk_locked_message">SIM-карта заблокирована с помощью PUK-кода</string>
     <string name="lockscreen_sim_puk_locked_instructions">Ознакомьтесь с руководством пользователя или свяжитесь со службой поддержки</string>
