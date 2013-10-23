@@ -59,7 +59,7 @@
     <string name="pref_data_warning_unset">Пожалуйста, сначала установите лимит трафика</string>
     <string name="pref_category_common">Общие параметры</string>
     <string name="pref_background_antitheft">Контроль передачи данных</string>
-    <string name="pref_background_antitheft_summary">Автоматически выключать передачу данных по 2G/3G с 01:00 по 07:00</string>
+    <string name="pref_background_antitheft_summary">Автоматически выключать передачу данных по 2G/3G с 00:00 до 07:00</string>
     <string name="pref_background_warning">Фоновое предупреждение</string>
     <string name="pref_background_warning_summary">Предупреждать, если фоновая передача данных по 2G/3G превышает 1 Мб</string>
     <string name="pref_clear_history">Очистить историю</string>
